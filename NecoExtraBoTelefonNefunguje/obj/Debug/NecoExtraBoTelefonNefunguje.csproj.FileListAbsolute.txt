@@ -10,3 +10,15 @@ C:\Users\kenoi\source\repos\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefung
 C:\Users\kenoi\source\repos\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.exe
 C:\Users\kenoi\source\repos\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.pdb
 C:\Users\kenoi\source\repos\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.Meme.resources
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\bin\Debug\NecoExtraBoTelefonNefunguje.exe.config
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\bin\Debug\NecoExtraBoTelefonNefunguje.exe
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\bin\Debug\NecoExtraBoTelefonNefunguje.pdb
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.csproj.AssemblyReference.cache
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.Form1.resources
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.Meme.resources
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.Properties.Resources.resources
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.csproj.GenerateResource.cache
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.csproj.CoreCompileInputs.cache
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.exe
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.pdb
