@@ -63,6 +63,16 @@ namespace NecoExtraBoTelefonNefunguje.Properties {
         /// <summary>
         ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pexels_codioful__formerly_gradienta__7130560 {
+            get {
+                object obj = ResourceManager.GetObject("pexels-codioful-(formerly-gradienta)-7130560", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap png_transparent_japan_borders_and_frames_frames_decorative_arts_chinese_new_year_border_holidays_decor {
             get {
                 object obj = ResourceManager.GetObject("png-transparent-japan-borders-and-frames-frames-decorative-arts-chinese-new-year-" +

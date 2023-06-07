@@ -16,7 +16,7 @@ namespace NecoExtraBoTelefonNefunguje
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Meme());
+            Application.Run(new Index());
         }
     }
 }

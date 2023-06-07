@@ -121,4 +121,7 @@
   <data name="png-transparent-japan-borders-and-frames-frames-decorative-arts-chinese-new-year-border-holidays-decor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\png-transparent-japan-borders-and-frames-frames-decorative-arts-chinese-new-year-border-holidays-decor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="pexels-codioful-(formerly-gradienta)-7130560" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pexels-codioful-(formerly-gradienta)-7130560.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

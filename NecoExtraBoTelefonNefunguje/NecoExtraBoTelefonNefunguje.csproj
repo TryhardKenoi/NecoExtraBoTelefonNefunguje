@@ -52,6 +52,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Index.Designer.cs">
+      <DependentUpon>Index.cs</DependentUpon>
+    </Compile>
     <Compile Include="Meme.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Index.resx">
+      <DependentUpon>Index.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Meme.resx">
       <DependentUpon>Meme.cs</DependentUpon>
@@ -91,6 +100,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\png-transparent-japan-borders-and-frames-frames-decorative-arts-chinese-new-year-border-holidays-decor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-codioful-%28formerly-gradienta%29-7130560.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
