@@ -88,6 +88,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Black;
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Location = new System.Drawing.Point(754, 135);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(432, 491);
@@ -123,6 +124,7 @@
             this.button6.Size = new System.Drawing.Size(46, 41);
             this.button6.TabIndex = 13;
             this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.ChangeTextColour);
             // 
             // button5
             // 
@@ -132,6 +134,7 @@
             this.button5.Size = new System.Drawing.Size(46, 41);
             this.button5.TabIndex = 12;
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.ChangeTextColour);
             // 
             // button4
             // 
@@ -141,6 +144,7 @@
             this.button4.Size = new System.Drawing.Size(46, 41);
             this.button4.TabIndex = 11;
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.ChangeTextColour);
             // 
             // button3
             // 
@@ -150,6 +154,7 @@
             this.button3.Size = new System.Drawing.Size(46, 41);
             this.button3.TabIndex = 10;
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.ChangeTextColour);
             // 
             // button2
             // 
@@ -159,6 +164,7 @@
             this.button2.Size = new System.Drawing.Size(46, 41);
             this.button2.TabIndex = 9;
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.ChangeTextColour);
             // 
             // button1
             // 
@@ -168,6 +174,7 @@
             this.button1.Size = new System.Drawing.Size(46, 41);
             this.button1.TabIndex = 8;
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.ChangeTextColour);
             // 
             // label4
             // 
@@ -188,6 +195,7 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(411, 80);
             this.textBox2.TabIndex = 6;
+            this.textBox2.TextChanged += new System.EventHandler(this.ChangeTextBottom);
             // 
             // textBox1
             // 
@@ -197,6 +205,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(411, 80);
             this.textBox1.TabIndex = 5;
+            this.textBox1.TextChanged += new System.EventHandler(this.ChangeTextTop);
             // 
             // label2
             // 
@@ -232,6 +241,7 @@
             this.button8.TabIndex = 14;
             this.button8.Text = "Stáhni obrázek";
             this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // Custom
             // 

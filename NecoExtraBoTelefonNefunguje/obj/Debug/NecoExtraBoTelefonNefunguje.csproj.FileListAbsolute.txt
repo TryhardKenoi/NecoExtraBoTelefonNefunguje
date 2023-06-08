@@ -36,3 +36,6 @@ C:\Users\kenoi\Documents\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje
 C:\Users\kenoi\Documents\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.pdb
 C:\Users\kenoi\Documents\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.Index.resources
 C:\Users\kenoi\Documents\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.Choose.resources
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.Choose.resources
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.Custom.resources
+C:\Users\kenoi\Documents\GitHub\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.Index.resources

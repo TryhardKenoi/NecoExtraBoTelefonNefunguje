@@ -12,6 +12,7 @@ namespace NecoExtraBoTelefonNefunguje
 {
     public partial class Choose : Form
     {
+        public int obrazek;
         public Choose()
         {
             InitializeComponent();
@@ -32,7 +33,22 @@ namespace NecoExtraBoTelefonNefunguje
         private void button1_Click(object sender, EventArgs e)
         {
             Custom c = new Custom();
+            obrazek = 1;
+            c.Show();
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Custom c = new Custom();
+            obrazek = 2;
+            c.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Custom c = new Custom();
+            obrazek = 3;
             c.Show();
         }
     }

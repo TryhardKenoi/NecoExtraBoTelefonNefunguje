@@ -19,6 +19,24 @@ namespace NecoExtraBoTelefonNefunguje
         {
             InitializeComponent();
             SetUpApp();
+            s();
+        }
+
+
+        private void s() {
+            Choose ch = new Choose();
+            Console.WriteLine(ch.obrazek);
+            if (ch.obrazek == 1) {
+                pictureBox1.BackgroundImage = Properties.Resources.Futurama_Fry;
+            }
+            if (ch.obrazek == 2)
+            {
+                pictureBox1.BackgroundImage = Properties.Resources.Ancient_Aliens;
+            }
+            if (ch.obrazek == 3)
+            {
+                pictureBox1.BackgroundImage = Properties.Resources.Success_Kid;
+            }
         }
 
         private void SetUpApp()
@@ -32,39 +50,9 @@ namespace NecoExtraBoTelefonNefunguje
             pictureBox1.SendToBack();
         }
 
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
 
-        }
 
-        private void button7_Click(object sender, EventArgs e)
-        {
-            using (OpenFileDialog openFileDialog = new OpenFileDialog())
-            {
-                openFileDialog.Filter = "Image Files (*.jpg, *.png)|*.jpg;*.png|All Files (*.*)|*.*";
-                openFileDialog.FilterIndex = 1;
-
-                if (openFileDialog.ShowDialog() == DialogResult.OK)
-                {
-                    try
-                    {
-                        string selectedFilePath = openFileDialog.FileName;
-                        pictureBox1.ImageLocation = selectedFilePath;
-                    }
-                    catch (Exception ex)
-                    {
-                        MessageBox.Show("Obrázek nelze nahrát" + ex.Message);
-                    }
-
-                }
-            }
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
+       
         private void ChangeTextTop(object sender, EventArgs e)
         {
             textTop.Text = textBox1.Text;
@@ -103,9 +91,6 @@ namespace NecoExtraBoTelefonNefunguje
             }
         }
 
-        private void Meme_Load(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }
