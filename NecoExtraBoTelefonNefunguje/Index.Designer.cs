@@ -38,10 +38,10 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Bahnschrift Condensed", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label1.Location = new System.Drawing.Point(470, 100);
+            this.label1.Font = new System.Drawing.Font("Bahnschrift Condensed", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label1.Location = new System.Drawing.Point(418, 107);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(358, 77);
+            this.label1.Size = new System.Drawing.Size(537, 115);
             this.label1.TabIndex = 0;
             this.label1.Text = "Vytvoř si meme";
             // 

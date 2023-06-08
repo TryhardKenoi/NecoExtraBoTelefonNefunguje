@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Choose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Choose.Designer.cs">
+      <DependentUpon>Choose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Custom.Designer.cs">
+      <DependentUpon>Custom.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +78,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Choose.resx">
+      <DependentUpon>Choose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom.resx">
+      <DependentUpon>Custom.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -103,6 +121,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\pexels-codioful-%28formerly-gradienta%29-7130560.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Futurama-Fry.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ancient-Aliens.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Success-Kid.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

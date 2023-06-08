@@ -35,3 +35,4 @@ C:\Users\kenoi\Documents\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje
 C:\Users\kenoi\Documents\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.exe
 C:\Users\kenoi\Documents\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.pdb
 C:\Users\kenoi\Documents\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.Index.resources
+C:\Users\kenoi\Documents\NecoExtraBoTelefonNefunguje\NecoExtraBoTelefonNefunguje\obj\Debug\NecoExtraBoTelefonNefunguje.Choose.resources

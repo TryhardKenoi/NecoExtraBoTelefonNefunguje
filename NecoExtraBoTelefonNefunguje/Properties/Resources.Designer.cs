@@ -63,6 +63,26 @@ namespace NecoExtraBoTelefonNefunguje.Properties {
         /// <summary>
         ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Ancient_Aliens {
+            get {
+                object obj = ResourceManager.GetObject("Ancient-Aliens", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Futurama_Fry {
+            get {
+                object obj = ResourceManager.GetObject("Futurama-Fry", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pexels_codioful__formerly_gradienta__7130560 {
             get {
                 object obj = ResourceManager.GetObject("pexels-codioful-(formerly-gradienta)-7130560", resourceCulture);
@@ -77,6 +97,16 @@ namespace NecoExtraBoTelefonNefunguje.Properties {
             get {
                 object obj = ResourceManager.GetObject("png-transparent-japan-borders-and-frames-frames-decorative-arts-chinese-new-year-" +
                         "border-holidays-decor", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Success_Kid {
+            get {
+                object obj = ResourceManager.GetObject("Success-Kid", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
