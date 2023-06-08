@@ -32,24 +32,18 @@ namespace NecoExtraBoTelefonNefunguje
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Custom c = new Custom();
-            obrazek = 1;
-            c.Show();
+            MessageBox.Show("Je mi líto, ale na této funkci zatím pracuju. :)");
 
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Custom c = new Custom();
-            obrazek = 2;
-            c.Show();
+            MessageBox.Show("Je mi líto, ale na této funkci zatím pracuju. :)");
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Custom c = new Custom();
-            obrazek = 3;
-            c.Show();
+            MessageBox.Show("Je mi líto, ale na této funkci zatím pracuju. :)");
         }
     }
 }

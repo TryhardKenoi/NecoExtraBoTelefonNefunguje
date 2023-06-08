@@ -242,9 +242,9 @@
             this.textBottom.BackColor = System.Drawing.Color.Transparent;
             this.textBottom.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.textBottom.ForeColor = System.Drawing.Color.White;
-            this.textBottom.Location = new System.Drawing.Point(718, 506);
+            this.textBottom.Location = new System.Drawing.Point(718, 622);
             this.textBottom.Name = "textBottom";
-            this.textBottom.Size = new System.Drawing.Size(432, 84);
+            this.textBottom.Size = new System.Drawing.Size(432, 50);
             this.textBottom.TabIndex = 7;
             this.textBottom.Text = "label5";
             this.textBottom.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
