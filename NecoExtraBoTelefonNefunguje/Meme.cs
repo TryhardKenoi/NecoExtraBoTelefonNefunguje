@@ -23,6 +23,7 @@ namespace NecoExtraBoTelefonNefunguje
 
         private void SetUpApp()
         {
+            
             pictureBox1.Controls.Add(textBottom);
             pictureBox1.Controls.Add(textTop);
 
