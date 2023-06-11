@@ -27,7 +27,7 @@ namespace NecoExtraBoTelefonNefunguje
             pictureBox1.Controls.Add(textTop);
 
             textBottom.Location = new Point(0, 0);
-            textTop.Location = new Point(0,350);
+            textTop.Location = new Point(0,400);
 
             pictureBox1.SendToBack();
         }
