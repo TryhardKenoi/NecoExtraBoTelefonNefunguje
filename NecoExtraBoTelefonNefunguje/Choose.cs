@@ -31,9 +31,7 @@ namespace NecoExtraBoTelefonNefunguje
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Custom c = new Custom();
-
-            c.Show();
+            MessageBox.Show("V průběhu vytváření :)");
         }
     }
 }
